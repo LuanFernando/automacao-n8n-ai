@@ -1,0 +1,21 @@
+## DICA 002
+
+### Quer se aprofundar na área de agentes inteligentes?  
+Segue uma lista de tópicos para iniciar seus estudos:
+
+- **Prompt Engineering**
+- **Context**
+- **CAG** (Conversational Augmented Generation)
+- **RAG** (Retrieval-Augmented Generation)
+- **Chunking**
+- **Re-ranking**
+- **Context-aware Retrieval**
+- **Self-RAG**
+- **CRAG** (Conversational RAG)
+- **Auto-RAG**
+- **Sumarização**
+
+---
+
+**Extra para desenvolvedores:**  
+- **BFA (Back-end for Agents)** → [Leia o artigo](https://medium.com/@mdbaraujo/the-back-end-for-agents-pattern-bfa-32e69baf8da3)

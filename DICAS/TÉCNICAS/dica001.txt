@@ -1,0 +1,6 @@
+## DICA 001
+
+### Quantidade e Qualidade
+
+Ao utilizar **IA** em nossos projetos, é fundamental lembrar que **quantidade** não significa necessariamente **sucesso** no universo dos agentes inteligentes.  
+O ideal é buscar **quantidade aliada à qualidade** dos dados, garantindo que o conhecimento fornecido aos agentes seja relevante, consistente e confiável.
